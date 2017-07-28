@@ -15,3 +15,6 @@ extra-deps:
 - monad-unlift-0.2.0
 - conduit-1.2.8
 - say-0.1.0.0
+nix:
+  packages:
+    - zlib
